@@ -1,0 +1,11 @@
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\bin\Debug\MandelbrotSetViewer.exe.config
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\bin\Debug\MandelbrotSetViewer.exe
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\bin\Debug\MandelbrotSetViewer.pdb
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.csproj.AssemblyReference.cache
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.Form1.resources
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.Properties.Resources.resources
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.csproj.GenerateResource.cache
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.csproj.CoreCompileInputs.cache
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.exe
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.pdb
+C:\Users\Nounou\source\repos\MandelbrotSetViewer\obj\Debug\MandelbrotSetViewer.Form2.resources
