@@ -1,2 +1,2 @@
 # Mandelbrot_Julia_Sets_Viewer
-Mandelbrot and Julia sets (fractals) real time viewer. 
+Julia sets and Mandelbrot set (fractals) real time viewer (with link between them depending on value of c). 
